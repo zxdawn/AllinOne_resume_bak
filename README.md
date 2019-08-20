@@ -1,6 +1,10 @@
-# AllinOne
+# AllinOne_resume
 
-Hugo theme - AllinOne.
+Hugo theme - AllinOne_resume.
+
+This is the modified AllinOne theme for using [hugo-resume](https://github.com/zxdawn/hugo-resume) in the specific section.
+
+Below is the original content of AllinOne:
 
 [Demo](https://orianna-zzo.github.io/AllinOne-html/)
 
